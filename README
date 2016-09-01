@@ -1,0 +1,3 @@
+This project is embedded into Digilent Basys 2 board, which is based on a Xilinx FPGA.
+
+It's a just a simple VGA game covering some basic topics on fpga programming.
